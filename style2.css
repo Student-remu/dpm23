@@ -1,0 +1,56 @@
+h1{
+    color: rgb(172, 103, 0);
+    margin: 3rem;
+}
+
+p{
+    font-size: 18px;
+    
+}
+a{
+    text-decoration: underline;
+    color: rebeccapurple;
+}
+
+#container {
+    display: flex;
+}
+
+body {
+    margin: 5rem;
+    padding: 5rem;
+    color: rgb(0, 0, 0);
+    background-color: #fcffd6;
+    font-family:'Times New Roman', Times, serif;
+}
+
+nav{
+    margin: 2rem;
+}
+
+main{
+    margin: 2rem;
+}
+
+.main-picture{
+    border-radius: 30px;
+    width: 500px;
+    border-style: double;
+    border-width: 20;
+    border-color: goldenrod;
+}
+
+aside{
+    margin: 2rem;
+}
+
+footer{
+    position: absolute;
+    margin: auto 30vw;
+    padding-top: 20vh;
+}
+
+li{
+    margin: 0.8rem 0 0.8rem 0;
+    font-size: 18px;
+}
